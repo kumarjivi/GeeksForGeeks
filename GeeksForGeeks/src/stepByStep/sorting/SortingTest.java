@@ -1,4 +1,4 @@
-package amazon.stepByStep.sorting;
+package stepByStep.sorting;
 
 import utilityMethods.ArrayUtils;
 
