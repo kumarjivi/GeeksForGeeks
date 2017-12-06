@@ -29,9 +29,6 @@ public class DeleteNodeFromBST {
     }
     
 	TreeNode findInorderSuccessor(TreeNode node) {
-        if(node == null || node.right == null) {
-            return node;
-        }
         while(node.left != null) {
             node = node.left;
         }
