@@ -10,15 +10,7 @@ import java.util.Scanner;
  * @author jivi
  *
  */
-/*
-2
-6 6
-ABCDGH
-AEDFHR
-3 2
-ABC
-AC
- */
+
 public class LongestCommonSubsequence32 {
 
 	public static void main(String[] args) {
